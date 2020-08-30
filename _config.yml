@@ -1,7 +1,8 @@
-theme: jekyll-theme-minimal
-gems:
-  - jekyll-redirect-from
 whitelist:
   - jekyll-redirect-from
 plugins:
   - jekyll-redirect-from
+
+permalink: /
+redirect_to:
+  - https://powershell.pass.org
