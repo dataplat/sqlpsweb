@@ -2,6 +2,6 @@
 layout: redirected
 sitemap: false
 redirect_to:
-  - https://powershell.pass.org
+  - https://dbatools.io
 permalink: /index.html
 ---
