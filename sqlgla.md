@@ -2,6 +2,6 @@
 layout: redirected
 sitemap: false
 redirect_to:
-  - https://github.com/sqlcollaborative/community-presentations
+  - https://github.com/dataplat/community-presentations
 permalink: /sqlgla
 ---
