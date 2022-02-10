@@ -2,6 +2,6 @@
 layout: redirected
 sitemap: false
 redirect_to:
-  - https://twitter.com/sqlpowershell
+  - https://twitter.com/psdbatools
 permalink: /twitter
 ---
