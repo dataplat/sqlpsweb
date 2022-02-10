@@ -2,6 +2,6 @@
 layout: redirected
 sitemap: false
 redirect_to:
-  - https://www.linkedin.com/company/sql-pass-powershell-virtual-chapter
+  - https://www.linkedin.com/company/dbatools.io
 permalink: /linkedin
 ---
