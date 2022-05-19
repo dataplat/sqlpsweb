@@ -2,6 +2,6 @@
 layout: redirected
 sitemap: false
 redirect_to:
-  - https://join.slack.com/t/sqlcommunity/shared_invite/zt-zsu0bnsk-zauP0i09BUR3LqGgup_4QA
+  - https://join.slack.com/t/sqlcommunity/shared_invite/zt-zsu0bnsk-QeuawTkJczf1pT4GcmK_6A
 permalink: /slack
 ---
