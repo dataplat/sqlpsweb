@@ -2,6 +2,6 @@
 layout: redirected
 sitemap: false
 redirect_to:
-    - https://itsalljustelectrons.blogspot.com/2018/04/SQL-Server-Discovery-Report.html
+    - https://www.davemason.me/2018/04/19/sql-server-features-discovery-report
 permalink: /discover
 ---
